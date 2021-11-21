@@ -1,3 +1,3 @@
-theme: jekyll-theme-midnight
 title: MSN Explorer Archive
-description: Archive of local versions of MSN Explorer and it's servers
+description: Archive of local versions of MSN Explorer and the servers it uses
+remote_theme: pages-themes/midnight@v0.2.0
