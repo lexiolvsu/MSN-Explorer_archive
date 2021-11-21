@@ -1,2 +1,2 @@
-# MSN-Explorer_archive
-Local versions of MSN Explorer
+# MSN Explorer Archive
+Local versions of MSN Explorer.
