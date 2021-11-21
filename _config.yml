@@ -1,5 +1,5 @@
 title: MSN Explorer Archive
 description: Archive of local versions of MSN Explorer and the servers it uses
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
